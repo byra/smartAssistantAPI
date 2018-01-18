@@ -1,0 +1,22 @@
+{
+  "name": "smartassisstantapi",
+  "version": "1.0.0",
+  "description": "API",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "byra",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mysql": "^2.15.0",
+    "node-webhdfs": "^0.2.1",
+    "ssh2": "^0.5.5",
+    "webhdfs": "^1.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.7"
+  }
+}
