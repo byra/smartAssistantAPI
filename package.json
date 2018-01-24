@@ -10,7 +10,9 @@
   "author": "byra",
   "license": "ISC",
   "dependencies": {
+    "cities": "^1.1.2",
     "express": "^4.16.2",
+    "madison": "^1.0.2",
     "mysql": "^2.15.0",
     "node-webhdfs": "^0.2.1",
     "ssh2": "^0.5.5",
